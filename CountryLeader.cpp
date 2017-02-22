@@ -2,6 +2,8 @@
 TASK: A
 LANG: C++
 */
+
+//https://code.google.com/codejam/contest/6304486/dashboard#s=p0
 #include<bits/stdc++.h>
 
 std::map<std::string,int> mapp;
